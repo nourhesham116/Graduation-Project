@@ -1,0 +1,15 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Auto-Generated files by Unity
+[Aa]ssets/[Aa]ddressable[Aa]sset[Ss]ettings/
